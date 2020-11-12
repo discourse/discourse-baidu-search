@@ -4,4 +4,4 @@
 
 Replace **Google** search with **Baidu** search.
 
-- Tips: Update the `js.search.or_search_google` string (/admin/customize/site_texts/js.search.or_search_google) by replacing 'Google' with 'Baidu'.
+- Tips: Update the `js.search.search_google` and `js.search.or_search_google` strings (/admin/customize/site_texts) by replacing 'Google' with 'Baidu'.
