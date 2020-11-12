@@ -1,4 +1,4 @@
-# Baidu-search
+# Baidu Search
 
 ### Theme component for Chinese sites
 
