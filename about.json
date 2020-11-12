@@ -2,6 +2,7 @@
    "name" : "Baidu Search",
    "about_url" : "https://github.com/discourse/Discourse-Baidu-Search",
    "license_url": "https://github.com/discourse/Discourse-Baidu-Search/blob/main/LICENSE",
+   "authors": "@Dax",
    "theme_version": "1.0",
    "assets": {},
    "component": true
