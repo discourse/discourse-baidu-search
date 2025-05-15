@@ -6,9 +6,8 @@
         type="text"
         name="wd"
         value="{{@outletArgs.searchTerm}} site:{{@outletArgs.siteUrl}}"
-        type="hidden"
       />
-      <button class="btn btn-primary">百度一下</button>
+      <button class="btn btn-primary" type="submit">百度一下</button>
     </form>
   </div>
 </template>
